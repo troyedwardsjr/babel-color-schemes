@@ -2,9 +2,11 @@
 
 Babel-ready color schemes for the Sublime Text syntax definitions plugin, [babel-sublime](https://github.com/babel/babel-sublime "babel-sublime").
 
+A repository for converting popular color schemes to be ready for babel-sublime's language / syntax definitions.
+
 Feel free to contribute!
 
-Current color schemes:
+Currently supported color schemes:
 
 - Monokai
 - Flatland Monokai
